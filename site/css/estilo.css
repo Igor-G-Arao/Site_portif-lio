@@ -1,0 +1,47 @@
+*{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+body{
+    background: rgb(94, 93, 93);
+}
+h1,h2,h3,h4,p{
+    color: white;
+    font-family: '8bit wonder', serif;
+}
+
+.right{
+    text-align: right;
+}
+
+.center{
+    text-align: center;
+}
+
+#tec{
+    text-align: center;
+}
+
+#marc{
+    border-left: 4px solid white ;
+}
+
+
+
+
+.botao{
+    background: black;
+    color:rgb(213, 247, 247);
+    padding: 5px;
+    text-decoration: none 
+
+}    
+.botao:hover {
+    border-radius: 100px;
+    background: white;
+    color:black;
+}
+
+
